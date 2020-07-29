@@ -16,21 +16,21 @@
 [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/Shadowss/TravianZ)
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/cata7007)
 ======
-TravianZ Version **v.8.3.4**
+TravianZ Версия **v.8.3.4**
 ======
-**Note:** this game is still in a pre-release state, although at this point it is very playable, tested and found to be fairly stable
+**Заметки:** this game is still in a pre-release state, although at this point it is very playable, tested and found to be fairly stable
 
-**WARNING:** please note that ***this is in no way an upgrade*** from the old 8.3.2 version, so please ***do not try to just copy your files over***, 
+**ВНИМАНИЕ:** please note that ***this is in no way an upgrade*** from the old 8.3.2 version, so please ***do not try to just copy your files over***, 
 since the installer logic has changed and you would just crash your old version
 
-**Quick links:**
+**ССЫЛКИ:**
 * [Download and Updates](https://github.com/Shadowss/TravianZ) &raquo;&raquo; https://github.com/Shadowss/TravianZ
 * [Wiki](https://github.com/Shadowss/TravianZ/wiki)
 * [Game Mechanics](http://travian.wikia.com/wiki/Travian_Wiki)
 * [The Making Of](https://www.youtube.com/watch?v=1XiHhpGUmQg&list=PLzV5avt1FFHorlIeoL9YX0pdb9bj-FO84) - YouTube Videos about this project
 * [Donate to TravianZ](https://www.paypal.me/cata7007)
 
-**Minimum requirements:**
+**Минимальные требования:**
 * [PHP](http://php.net/) 7.0.0+
 * [MySQL Community Server](https://dev.mysql.com/downloads/mysql/) 5.5+
   * or alternatively, [MariaDB](https://downloads.mariadb.org/) 5.5+
